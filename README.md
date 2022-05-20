@@ -5,3 +5,5 @@ The goal of the project is to use the data to predict whether the SpaceX’s Fal
 
 ## Outcome 
 It was found that the predicted outcome was dependent on the Flight Number, Launch Site, Payload and Orbit.
+
+  >[(Link to the report)](https://github.com/Zayd1602/IBM-Applied-Data-Science-Capstone/blob/main/Mohammad-Zayd-IBM-DS-Capstone-Report.pdf)
